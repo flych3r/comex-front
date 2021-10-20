@@ -11,6 +11,7 @@ requests = "~=2.26.0"
 tqdm = "~=4.62.3"
 ipywidgets = "~=7.6.5"
 voila = "~=0.2.16"
+voila-material = "~=0.4.0"
 
 [dev-packages]
 
